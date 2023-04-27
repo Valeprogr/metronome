@@ -1,7 +1,10 @@
+import Metronome from "./Metronome";
+
 function App() {
   return (
     <>
-    <h1>Hello World!</h1>
+      <h1>Metronome</h1>
+      <Metronome />
     </>
   );
 }
